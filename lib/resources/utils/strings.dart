@@ -1,0 +1,10 @@
+const String WELCOME_LOGIN = "Welcome to  Lafyuu";
+const String SIGNIN_CONTINUE = "Sign in to continue";
+const String YOUR_EMAIL = "Your Email";
+const String PASSWORD = "Password";
+const String SIGN_IN = "Sign In";
+const String LOGIN_GG = "Login with Google";
+const String LOGIN_FB = "Login with Facebook";
+const String FORGET_PASS = "Forget Password?";
+const String DONT_HAVE_A_ACCOUNT = "Don't have a account?";
+const String REGISTER = "Register";
